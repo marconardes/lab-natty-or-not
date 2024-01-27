@@ -1,5 +1,5 @@
 
-# Título do Projeto Extremamente Aesthetic ;)
+# Gênese da IA: Roteiro
 
 ## 📒 Descrição
 "Genesis das Primeiras Inteligências Artificiais: Um Roteiro Histórico" traça a evolução da inteligência artificial desde suas bases teóricas até os avanços contemporâneos. O roteiro explora momentos-chave na história da IA, desde o trabalho pioneiro de Alan Turing até o surgimento e declínio das primeiras redes neurais, a era da IA simbólica e o ressurgimento impulsionado pelo aprendizado profundo. Destacando tanto triunfos quanto desafios, este roteiro oferece uma narrativa cativante da busca por máquinas inteligentes ao longo das décadas.
